@@ -1,3 +1,5 @@
+<img src= "https://drive.google.com/file/d/1AbaM0Ia0RMHGH6ulKmmvpl4yWm2IYiZf/view?usp=sharing">
+
 <h1 align="center">Hi 👋, I'm Sarmina Aktar Soni</h1>
 <h3 align="center">Paassionate Web Developer, Web Designer, WordPress Expert</h3>
 
